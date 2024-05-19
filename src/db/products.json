@@ -1,0 +1,58 @@
+[
+    {
+        "id": "d5c0fa0b-b58b-47c7-85e8-bcc265a54e4a",
+        "status": true,
+        "title": "Pantalon drill negro",
+        "description": "Pantalon de trabajo color negro  ",
+        "code": "abc001",
+        "price": 300,
+        "stock": 35,
+        "category": "ropa",
+        "thumbnails": [
+            "www.imagen1.com",
+            "www.imagen2.com"
+        ]
+    },
+    {
+        "id": "09bd90f9-aa83-4cf4-8f4d-db4eafc5f8a8",
+        "status": true,
+        "title": "Casco Safari",
+        "description": "Casco Safari color blanco  ",
+        "code": "abc002",
+        "price": 100,
+        "stock": 15,
+        "category": "casco",
+        "thumbnails": [
+            "www.imagen1.com",
+            "www.imagen2.com"
+        ]
+    },
+    {
+        "id": "85ee18e5-2fc2-46ae-810d-ea17a700c0c0",
+        "status": true,
+        "title": "Lentes Negros",
+        "description": "Letntes de segruidad color negro",
+        "code": "abc003",
+        "price": 80,
+        "stock": 27,
+        "category": "lentes",
+        "thumbnails": [
+            "www.imagen1.com",
+            "www.imagen2.com"
+        ]
+    },
+    {
+        "id": "74e03bf2-38b6-43da-8399-8e76bb51aed2",
+        "status": true,
+        "title": "Guantes de cuero",
+        "description": "Guantes de cuero color marron",
+        "code": "abc004",
+        "price": 100,
+        "stock": 25,
+        "category": "guantes",
+        "thumbnails": [
+            "www.imagen1.com",
+            "www.imagen2.com"
+        ]
+    }
+]
